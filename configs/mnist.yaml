@@ -1,0 +1,12 @@
+dataset: MNIST
+data_root: ./data
+batch_size: 128
+num_workers: 4
+model: resnet18
+epochs: 2
+lr: 0.001
+weight_decay: 0.0001
+image_size: 224
+checkpoint_dir: D:\\T2G\\quickstart\\VisPilot\\models
+seed: 42
+device: cuda
