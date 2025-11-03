@@ -127,6 +127,7 @@ You are free to use, modify, and distribute it for both commercial and non-comme
 ## 🚀 Quick Start
 
 ### 1️⃣ Create and activate environment
+
 ```bash
 conda create -n vispilot python=3.11
 conda activate vispilot
@@ -148,5 +149,3 @@ python scripts/train.py --config configs\mnist.yaml
 ## 5️⃣ Evaluate a model
 
 python scripts/eval.py --config configs\mnist.yaml --checkpoint models\mnist_resnet18.pth
-
-
