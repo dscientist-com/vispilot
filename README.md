@@ -148,4 +148,4 @@ You are free to use, modify, and distribute it for both commercial and non-comme
 
 📊 Data Scientist | Machine Learning Enthusiast | Transforming Data into Insights | SQL • Tableau • Excel
 
-🌐 GitHub Profile
+🌐 [GitHub Profile](https://github.com/dscientist-com)
